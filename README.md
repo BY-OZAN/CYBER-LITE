@@ -40,4 +40,5 @@ Betiğin topladığı ve özetlediği temel donanım ve işletim sistemi bilgile
 
 ## 📝 Lisans
 
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla ayrıntı için `LICENSE` dosyasına bakınız (eğer oluşturulmuşsa).
+
+Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla ayrıntı için `LICENSE` dosyasına bakınız .
